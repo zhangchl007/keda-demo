@@ -1,7 +1,10 @@
-# keda-demo
+
 # Welcome to the KEDA Workshop
 
-In this workshop we will learn what [KEDA](https://github/kedacore/keda) is, how it works, what are the built-in scalers, and how to build an External scaler specific to our needs.
+In this workshop we will learn what [KEDA](https://github.com/kedacore/keda) is, how it works, what are the built-in scalers, and how to build an External scaler specific to our needs.
+
+## from original repo
+- [keda-workshop](https://github.com/eashi/keda-workshop)
 
 ## Pre-requisites
 - [Docker Desktop](https://docs.docker.com/get-docker/)
